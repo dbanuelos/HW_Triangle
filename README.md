@@ -1,4 +1,4 @@
-# HW_Triangle
+#Equilateral_Triangle
 pen black, 5
 fd 180
 rt 120
